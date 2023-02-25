@@ -1,0 +1,13 @@
+Uma das maneiras mais comuns de se comunicar com um programa Java dentro do mainframe é usar a tecnologia de chamada de rotina dinâmica (Dynamic Link Routine - DLR). A DLR permite que programas escritos em diferentes linguagens, como COBOL e Java, possam se comunicar por meio de chamadas de rotina. Isso permite que você integre aplicativos Java com aplicativos COBOL em um mainframe.
+
+Para usar a DLR para se comunicar com um programa Java dentro do mainframe, siga estes passos:
+
+Compile o programa Java para um arquivo JAR e implante-o no mainframe. Isso pode ser feito usando ferramentas como o z/OS Connect Enterprise Edition ou o IBM z/OS Explorer Aqua.
+
+Crie uma interface de chamada de rotina para o programa Java. Isso envolve a definição de uma rotina que será chamada pelo programa COBOL, a qual chamará a rotina Java e retornará os resultados ao COBOL. Isso pode ser feito usando ferramentas como o IBM Enterprise COBOL ou o IBM Debug Tool.
+
+Defina um nome para o ambiente de tempo de execução do Java, que será usado pelo COBOL para acessar o programa Java. Isso pode ser feito usando o comando SETENV do JCL.
+
+Modifique o programa COBOL para chamar a rotina Java usando a interface de chamada de rotina definida na etapa 2. Isso pode ser feito adicionando código COBOL para invocar a rotina Java e lidar com os resultados retornados.
+
+Teste a integração entre o programa COBOL e o programa Java, verificando se os resultados são os esperados.

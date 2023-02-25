@@ -1,0 +1,8 @@
+24 - 02 - 2023 /  21:42
+
+Pagina 5. Lendo ao final ele demonstra:
+   TSO/E é o 'Command-Line/Terminal' 
+   E
+   ISPF é o 'MENU Interface' para os TSO'cmd'ou'command-line'
+
+   
