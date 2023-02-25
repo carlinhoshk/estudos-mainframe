@@ -5,4 +5,18 @@ Pagina 5. Lendo ao final ele demonstra:
    E
    ISPF é o 'MENU Interface' para os TSO'cmd'ou'command-line'
 
-   
+Pagina 8. Os 4 compomentes major do ISPF:
+
+- Dialog Manager ( DM )
+- Program Development Facility ( PDF )
+- Software Configuration and Library Manager ( SCLM )
+- Client/Server ( C/S )
+
+
+12:55 - 25/02/23 
+   Conclução pessoal:
+      Descobrir a relação do TSO com o ISPF que antes da leitura eu só conhecia o TSO
+      ISPF é como um GUI enquanto o TSO é o Terminal
+      os 4 componentes major do ISPF: DM, PDF, SCLM, C/S .
+
+      
