@@ -1,7 +1,4 @@
-You
----
 
-escreva em portugues o que é external sort eme COBOL
 
 ChatGPT
 -------
